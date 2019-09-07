@@ -6,8 +6,8 @@ Docker para la mentoria de MamoDatos
  git clone https://github.com/masgro/mamodocker
  
 2.- Dentro de la carpeta notebooks creat un directorio con el nombre datos y dentro de él copiar el archivo con la base de datos correspondientes
-  mkdir notebooks/datos
-  cp /PATH/TO/FILE/KnnFilled_data.csv notebooks/datos/.
+ mkdir notebooks/datos
+ cp /PATH/TO/FILE/KnnFilled_data.csv notebooks/datos/.
   
 3.- Construir la imagen de Docker
  docker build -t mamodatos .
