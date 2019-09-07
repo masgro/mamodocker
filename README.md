@@ -1,14 +1,14 @@
 # mamodocker
 Docker para la mentoria de MamoDatos
 
-# Como ejectuar este docker
+# Como ejecutar este docker
 1.- Clonar este repositorio
 
 ```
  git clone https://github.com/masgro/mamodocker
 ``` 
 
-2.- Dentro de la carpeta notebooks creat un directorio con el nombre datos y dentro de él copiar el archivo con la base de datos correspondientes
+2.- Dentro de la carpeta notebooks crear un directorio con el nombre "datos" y dentro del mismo copiar el archivo con la base de datos correspondientes
 
 ```
 mkdir notebooks/datos
