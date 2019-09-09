@@ -2,10 +2,11 @@
 Docker para la mentoria de MamoDatos
 
 # Como ejecutar este docker
-1.- Clonar este repositorio
+1.- Clonar este repositorio e ingresar al directorio
 
 ```
 git clone https://github.com/masgro/mamodocker
+cd mamodocker
 ``` 
 
 2.- Construir la imagen de Docker
