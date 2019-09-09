@@ -20,4 +20,4 @@ docker build -t mamodatos .
 docker run --rm -it --name mamodatos -p 8888:8888 mamodatos
 ```
 
-et voila!.. buscar el notebook a ejecutar dentro de la carpeta notebooks.
+et voila!.. copiar y pegar en un navegador la dirección que tira jupyter-notebook y buscar el notebook a ejecutar dentro de la carpeta notebooks.
